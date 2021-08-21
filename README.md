@@ -1,3 +1,5 @@
+<p align="center"><img width='350px' src='https://github.com/PollyanaOliveira/anna-bella/blob/main/imagens/model.png' />
+
 <h1 align="center">Anna Bella </h1>  </p>
 
 ## Desenvolvido por
